@@ -1,0 +1,10 @@
+/data
+/logs
+/debug
+*pycache*
+*zip
+/saved_models
+/fonts
+/textgen
+*workspace*
+*cifar-10-batches-py
